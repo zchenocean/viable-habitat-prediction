@@ -4,6 +4,11 @@ Skillful Multiyear Prediction of Marine Habitat Shifts Jointly Constrained by Oc
 
 Zhuomin Chen (zhuomin.chen@uconn.edu), Samantha Siedlecki, Matthew Long, Colleen M. Petrik, Charles A. Stock, and Curtis A. Deutsch
 
+## Data Availability
+
+Please see the Data Availability section for access to the CESM-DPLE and FOSI outputs, as well as metabolic traits data, the GOBAI-O2 observation product, and the EN4 temperature observation product.
+
+Preprint link: https://www.researchsquare.com/article/rs-2923523/v1.
 
 ## Conda environment
 Install "conda" from script found here: https://docs.conda.io/en/latest/miniconda.html
