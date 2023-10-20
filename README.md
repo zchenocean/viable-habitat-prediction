@@ -1,4 +1,5 @@
 # viable-habitat-prediction
+
 Skillful Multiyear Prediction of Marine Habitat Shifts Jointly Constrained by Ocean Temperature and Dissolved Oxygen
 
 Zhuomin Chen (zhuomin.chen@uconn.edu), Samantha Siedlecki, Matthew Long, Colleen M. Petrik, Charles A. Stock, and Curtis A. Deutsch
@@ -12,3 +13,6 @@ We are using "conda-lock" to ensure a reproducible environment. Please update th
 To create an environment from the lock file
 
 conda create -n habitat-prediction --file environment/conda-linux-64.lock
+
+-------------------
+This repository will hold all scripts needed to create the main figures in this study. If the scripts are not yet uploaded and you would like access to code for specific analyses, please contact the lead author at zhuomin.chen@uconn.edu. 
