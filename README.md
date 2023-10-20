@@ -1,5 +1,8 @@
 # viable-habitat-prediction
-Skillful Multiyear Prediction of Habitat Viability for Diverse Marine Species in the North American Large Marine Ecosystems
+Skillful Multiyear Prediction of Marine Habitat Shifts Jointly Constrained by Ocean Temperature and Dissolved Oxygen
+Zhuomin Chen (zhuomin.chen@uconn.edu), Samantha Siedlecki, Matthew Long, Colleen M. Petrik, Charles A. Stock, and Curtis A. Deutsch
+
+
 ## Conda environment
 Install "conda" from script found here: https://docs.conda.io/en/latest/miniconda.html
 
