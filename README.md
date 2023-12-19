@@ -8,7 +8,9 @@ Zhuomin Chen (zhuomin.chen@uconn.edu), Samantha Siedlecki, Matthew Long, Colleen
 
 Please see the Data Availability section for access to the CESM-DPLE and FOSI outputs, as well as metabolic traits data, the GOBAI-O2 observation product, and the EN4 temperature observation product.
 
-Preprint link: https://www.researchsquare.com/article/rs-2923523/v1.
+Source Data of all figures are provided and shared on Figshare: https://doi.org/10.6084/m9.figshare.24863091.v2
+
+Preprint link: https://www.researchsquare.com/article/rs-2923523/v1
 
 ## Conda environment
 Install "conda" from script found here: https://docs.conda.io/en/latest/miniconda.html
