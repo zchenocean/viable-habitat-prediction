@@ -10,7 +10,12 @@ Please see the Data Availability section for access to the CESM-DPLE and FOSI ou
 
 Source Data of all figures are provided and shared on Figshare: https://doi.org/10.6084/m9.figshare.24863091.v2
 
-Preprint link: https://www.researchsquare.com/article/rs-2923523/v1
+Paper link: https://doi.org/10.1038/s41467-024-45016-5
+
+Citation of the work:
+
+Chen, Z., Siedlecki, S., Long, M., Petrik, C. M., Stock, C. A., & Deutsch, C. A. (2024). Skillful multiyear prediction of marine habitat shifts jointly constrained by ocean temperature and dissolved oxygen. Nature Communications, 15, 900. https://doi.org/10.1038/s41467-024-45016-5
+
 
 ## Conda environment
 Install "conda" from script found here: https://docs.conda.io/en/latest/miniconda.html
